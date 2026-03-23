@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Hopes, Dreams, Wings",
+  "base_artist": "vally.exe和SoundCirclet",
+  "createdAt": "2026-03-23T08:44:47.115849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hopes, Dreams, Wings",
+      "artist": "vally.exe",
+      "has_synced": false,
+      "path": "select/01_Hopes,_Dreams,_Wings_vally.exe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hopes, Dreams, Wings (Instrumental)",
+      "artist": "SoundCirclet",
+      "has_synced": false,
+      "path": "select/02_Hopes,_Dreams,_Wings_(Instrumental)_SoundCirclet.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hopes, Dreams, Wings",
+      "artist": "vally.exe, SoundCirclet",
+      "has_synced": true,
+      "path": "select/03_Hopes,_Dreams,_Wings_vally.exe,_SoundCirclet.lrc"
+    }
+  ]
+}
